@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-- 🎓 Currently an **active student** at **Politeknik Negeri Malang**, majoring in **Information Technology**
+- 🎓 Currently an **active student** At **Politeknik Negeri Malang**, majoring in **Information Technology**
 - 💻 In the IT world since **2022**, starting from **Software Engineering (RPL)** at vocational high school (SMK)
 - 🎹 A **music writer** who turns ideas into songs and game-style soundtracks
 - 🌱 Always learning, always building, always curious
